@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Ahmet Pehlivan\Desktop\Yeni klasör\.metadata\.plugins\org.eclipse.jdt.core
-1637731351.index
-415934989.index
-1865797976.index
